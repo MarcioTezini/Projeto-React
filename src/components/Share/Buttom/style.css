@@ -1,0 +1,16 @@
+.btn-next-card {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.btn-next-card:disabled {
+    background-color: #494242 !important;
+    color: white !important;
+    cursor: not-allowed;
+}

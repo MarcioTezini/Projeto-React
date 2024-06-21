@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.linksNav {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.logoAmz {
+    display: flex;
+    align-items: center;
+    max-width: 100px;
+}
+
+.inputNav {
+    display: flex;
+    align-items: center;
+}
+
+.btn-descktop {
+    width: 150px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: #be7131af;
+}
